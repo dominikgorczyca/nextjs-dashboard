@@ -28,12 +28,7 @@ export type State = {
         customerId?: string;
         amount?: string;
         status?: string;
-    },
-    values?: {
-        customerId?: string;
-        amount?: number;
-        status?: string;
-    }
+    };
 }
 
 export async function createInvoice(prevState: State, formData: FormData) {
