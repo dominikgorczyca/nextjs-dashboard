@@ -1,2 +1,2 @@
 # nextjs-dashboard
-This is a dashboard written in Next.js 
+This is a dashboard written in Next.js
